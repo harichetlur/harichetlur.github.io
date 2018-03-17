@@ -18,7 +18,7 @@ Enter GitHub Pages - A god-sent blogging tool for developers.
 
 It is hosted by GitHub, whose privacy statement makes it clear that I own my content. None of that sneaky attempt to steal content that I generate.
 
-With [Jekyll] (https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/), GitHub pages gives you the nuts and bolts of a blogging tool, without all the annoying dials and switches.
+With [Jekyll](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/), GitHub pages gives you the nuts and bolts of a blogging tool, without all the annoying dials and switches.
 
 I can write offline in Markdown and push using Git - something I can only dream of with other blogging services. [Atom](https://atom.io/) is a fantastic text editor with MarkDown and Jekyll friendly plugins that would make life even easier.
 
